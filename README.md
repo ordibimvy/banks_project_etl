@@ -48,6 +48,9 @@ Executes and prints results for three SQL queries:
 SELECT * FROM Largest_banks;
 SELECT AVG(MC_GBP_Billion) FROM Largest_banks;
 SELECT [Bank name] FROM Largest_banks LIMIT 5;
+```
+---
+
 
 ### Project Structure
 
