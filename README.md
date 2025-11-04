@@ -67,14 +67,20 @@ SELECT [Bank name] FROM Largest_banks LIMIT 5;
 └── README.md                 # Project documentation
 
 ### How to run the Project
+```
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
+```
 
 ### Install the required Libraries
+```
 pip install pandas numpy requests beautifulsoup4 lxml
+```
 
 ### run the ETL Script
+```
 python3 banks_project.py
+```
 
 ## 🧾 Author
 
