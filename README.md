@@ -55,10 +55,15 @@ SELECT [Bank name] FROM Largest_banks LIMIT 5;
 ### Project Structure
 
 ├── banks_project.py          # Main ETL script
+
 ├── exchange_rate.csv         # Exchange rate reference file
+
 ├── Largest_banks_data.csv    # Output CSV file
+
 ├── banks.db                  # SQLite database
+
 ├── code_log.txt              # Log file for ETL execution
+
 └── README.md                 # Project documentation
 
 ### How to run the Project
